@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SafeUnsafe</string>
+    
+    <!-- Screen titles and headers -->
+    <string name="title_scorecard">Last 14 day scorecard</string>
+    <string name="title_driving_analysis">Driving Analysis</string>
+    <string name="text_learn_more">Learn more about your scores</string>
+    <string name="text_generating_recommendation">Generating recommendation…</string>
+    
+    <!-- Button texts -->
+    <string name="button_add_safe_trip">Add Safe Trip</string>
+    <string name="button_add_unsafe_trip">Add Unsafe Trip</string>
+    
+    <!-- Metrics and labels -->
+    <string name="label_trips">Trips</string>
+    <string name="label_miles">Miles</string>
+    <string name="label_braking">Braking</string>
+    <string name="label_acceleration">Acceleration</string>
+    <string name="label_speed">Speed</string>
+    <string name="label_cornering">Cornering</string>
+    <string name="label_phone_distraction">Phone distraction</string>
+    
+    <!-- Content descriptions -->
+    <string name="content_description_tips_icon">Tips icon</string>
+
+    <!-- Error messages -->
+    <string name="error_unexpected">An unexpected error occurred</string>
+    <string name="error_recommendation">Failed to generate recommendation</string>
+    <string name="error_add_trip">Failed to add trip</string>
+
+    <!-- Initial states -->
+    <string name="text_initial_recommendation">Start your journey by adding some trips!</string>
+
+    <!-- Recommendation titles -->
+    <string name="recommendation_title_great">Great Progress</string>
+    <string name="recommendation_title_mixed">Mixed Performance</string>
+    <string name="recommendation_title_improve">Room for Improvement</string>
+
+    <!-- Driving tips -->
+    <string name="tip_braking">Try to anticipate stops earlier for smoother braking.</string>
+    <string name="tip_acceleration">Practice gentler acceleration for better control.</string>
+    <string name="tip_speed">Keep within speed limits for safer driving.</string>
+    <string name="tip_cornering">Take corners slowly and steadily.</string>
+    <string name="tip_phone">Remember to avoid phone distractions.</string>
+</resources>
